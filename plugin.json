@@ -1,0 +1,5 @@
+{
+    "name":  "worldgen-skills",
+    "version":  "1.0.0",
+    "description":  "Procedural world generation workflow and skills for 2D, 2.5D, and 3D terrain, noise, FastNoiseLite, FastNoise2, biomes, caves, scatter, sites, and autotiling."
+}
